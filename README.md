@@ -1,4 +1,4 @@
-Project 1: Turn-based game using bash script
+# Project 1: Turn-based game using bash script
  By: Seif El Deen Sameh Mohamed
 
 Project description:
