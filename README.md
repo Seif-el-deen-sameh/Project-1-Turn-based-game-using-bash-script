@@ -20,5 +20,5 @@ Project description:
 - The player has starting statistics of 100 hit points and 10 attack power.
 
 Project files:
-1.beast_atk_game_final.sh ( the project’s bash script)
-2.Project_1_recording.gif (a screen recording of the project converted to gif)
+1. beast_atk_game_final.sh ( the project’s bash script)
+2. Project_1_recording.gif (a screen recording of the project converted to gif)
