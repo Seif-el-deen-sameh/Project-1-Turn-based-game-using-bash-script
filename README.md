@@ -1,5 +1,5 @@
 Project 1: Turn-based game using bash script
-By: Seif El Deen Sameh Mohamed
+ By: Seif El Deen Sameh Mohamed
 
 Project description:
 - This project aims to create a turn-based game inspired by the text based game  "Colossal Cave Adventure," that was developed in 1976 by William Crowther for the PDP-10 mainframe computer.
