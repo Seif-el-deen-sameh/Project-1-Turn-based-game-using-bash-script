@@ -98,11 +98,11 @@ beast_hitpoints=$(( $beast_power * $beast_modifier + $beast_toughness))
 beast_attackpower=$(( $beast_power + $beast_toughness + 10))
 #echo "beast_attackpower: $beast_attackpower" #For testing purposes
 ;; 
-*)     # default
+*)     
 echo "invalid option" #For testing purposes
 esac
 
-# Generate random beast and calculate the beast's parameters
+# The start of the game
 echo "Hello adventurer today's challange will be: $beast_name"
 echo "Adventurer, your base attack power is: $player_attackpower"
 echo "Adventurer, your base hitpoints are: $player_hitpoints"
